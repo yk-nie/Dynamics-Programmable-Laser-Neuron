@@ -6,5 +6,5 @@ This folder contains the following code files for the **David temperature predic
 - David_MLP.ipynb: MLP model.
 - continuous dataset.csv: original dataset.
 
-The '.txt' files are the simulation results of the MLP model. The source of the dataset 'continuous dataset.csv' is Aguilar Madrid, Ernesto (2021), “Short-term electricity load forecasting (Panama case study)”, Mendeley Data, V1, doi: 10.17632/byx7sztj59.1
+The '.txt' files are the simulation results of the MLP model. The source of the dataset 'continuous dataset.csv' is: Aguilar Madrid, Ernesto (2021), “Short-term electricity load forecasting (Panama case study)”, Mendeley Data, V1, doi: 10.17632/byx7sztj59.1
 
